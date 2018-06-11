@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Campus-JIT</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Account Settings</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_notification_text">Notifications</string>
+    <string name="bottom_ac_text">Account</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="action_chat_text">Chat</string>
+    <string name="action_addpost_text">Add Post</string>
+    <string name="action_allusers_text">All Users</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
